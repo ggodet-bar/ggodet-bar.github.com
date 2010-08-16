@@ -1,0 +1,107 @@
+* {
+  padding: 0 ;
+  margin: 0 ;
+  font-size: 95% ;
+  font-family: 'Helvetica Neue Light', 'Century Gothic', 'Helvetica', 'Verdana', sans-serif ;
+  font-style: normal ;
+}
+
+h2 {
+  display: inline-block ;
+  vertical-align: top ;
+  padding-right: 1em ;
+  color: #666 ;
+  width: 20% ;
+  text-align: right ;
+  font-size: 180% ;
+  font-weight: bold ;
+}
+
+.content {
+  margin: 15px auto 0 auto;
+  width: 850px ;
+}
+
+.footer {
+  margin-top: 100px ;
+  margin-bottom: 15px ;
+  text-align: right ;
+  font-size: 80% ;
+}
+
+.fn {
+  font-size: 170% ;
+}
+
+.adr, .contact-information {
+  font-size: 110% ;
+}
+
+.contact-information .type {
+  font-style: italic ;
+}
+
+.block:first-of-type {
+  margin-top: 3em ;
+}
+
+.block {
+  margin-top: 2em ;
+}
+
+
+.block-content {
+  width: 70% ;
+  display: inline-block ;
+  padding: 0 10px 10px 10px ;
+  border-left: thick solid gray ;
+  border-bottom: thin solid gray ;
+}
+
+.summary {
+  font-size: 110% ;
+}
+
+li.vevent {
+  list-style-type: none ;
+  margin-bottom: 1em ;
+}
+
+li.vevent:last-child {
+  margin-bottom: 0;
+}
+
+.date {
+  display: inline-block ;
+  font-weight: bold ;
+  width: 20% ;
+}
+
+li .summary, li .location {
+  font-weight: bold ;
+}
+
+li .location {
+  float: right ;
+}
+
+.experience > ul {
+  margin-left: 1.5em ;
+  list-style-type: disc ;
+}
+
+h3:first-child {
+  margin-top: 0 ;
+}
+
+h3 {
+  margin-top: 1em ;
+}
+
+h3 + ul {
+  margin-left: 1.5em ;
+}
+
+.edition {
+  font-style: italic ;
+}
