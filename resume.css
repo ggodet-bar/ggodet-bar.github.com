@@ -37,6 +37,10 @@ address {
   font-size: 18pt ;
 }
 
+.adr {
+  font-style: normal ;
+}
+
 .contact-information .type {
   font-style: italic ;
 }
