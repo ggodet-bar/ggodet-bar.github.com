@@ -41,6 +41,13 @@ address {
   font-style: italic ;
 }
 
+.profile p {
+  font-size: 12pt ;
+  padding-left: 12px ;
+  padding-bottom: 12px ;
+  line-height: 1.2 ;
+}
+
 .block {
   margin-top: 2em ;
 }
